@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who’s Driving? - Walter Clinton</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #0d3b66; /* calm blue */
+            color: #ffd166; /* warm gold */
+            text-align: center;
+            padding: 60px 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header h2 {
+            margin-top: 10px;
+            font-size: 1.5em;
+            font-weight: normal;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        h3 {
+            color: #0d3b66;
+            margin-top: 40px;
+        }
+        .buttons {
+            margin: 20px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .buttons a {
+            background-color: #ffd166;
+            color: #0d3b66;
+            padding: 12px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .buttons a:hover {
+            background-color: #e6b800;
+        }
+        footer {
+            text-align: center;
+            margin: 50px 0;
+            font-size: 0.9em;
+            color: #555555;
+        }
+        .contact {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Who’s Driving?</h1>
+    <h2>Navigating Life with Purpose and Awareness</h2>
+    <p>by Walter Clinton</p>
+</header>
+
+<div class="container">
+    <!-- Download & Action Buttons -->
+    <div class="buttons">
+        <a href="https://drive.google.com/file/d/1Z6sycIhPXyy6jj8PSCPxHVRJZifNorl2/view?usp=sharing" target="_blank">Download PDF</a>
+        <a href="https://docs.google.com/document/d/1UcMOHueea6MerJS6SRnLNW9dJy2xqj3q/edit?usp=drivesdk&ouid=105319276263841157357&rtpof=true&sd=true" target="_blank">Download DOCX</a>
+        <a href="#" target="_blank">Buy</a>
+        <a href="#" target="_blank">Donate</a>
+    </div>
+
+    <!-- Book Introduction -->
+    <h3>Introduction</h3>
+    <p>Your introduction text goes here. Include a compelling few paragraphs from the start of your book that invite readers to explore your journey of self-discovery, purpose, and control.</p>
+
+    <!-- Author Bio -->
+    <h3>About the Author</h3>
+    <p>Hi, I’m Walter. I’ve always considered myself a lifelong learner — curious about how things work, why people do what they do, and how we can all keep moving forward no matter where we’ve come from.</p>
+    <p>I’ve been on my own since I was 11, and that experience taught me a lot about resilience and independence. It hasn’t been an easy road, but it’s shaped me into someone who keeps searching for meaning and connection. I don’t have a big circle of friends, and sometimes I find it hard to meet people who are truly kind — but I still believe those people exist, and that kindness is worth looking for.</p>
+    <p>I love to play basketball and golf — they both keep me grounded and remind me that growth comes from patience and practice. Lately, I’ve been drawn toward cybersecurity and technology, and I’ve even started a small business called ShakingMyHead LLC. I’m still figuring out what to do with it, but that’s part of the journey. I’m also learning how to code and hoping to build my own website one day.</p>
+    <p>Life, for me, has always been about curiosity — about asking questions, learning something new, and never stopping the drive to understand what’s next.</p>
+
+    <!-- Acknowledgements -->
+    <h3>Acknowledgements</h3>
+    <p>Writing <em>Who’s Driving?</em> has been a journey of reflection, healing, and rediscovery. I want to thank everyone — known and unknown — who has crossed my path and taught me something, whether through kindness, challenge, or even silence.</p>
+    <p>To those who believe in the power of change and the possibility of new beginnings, thank you for reminding me that the road is never truly closed — just waiting for another turn.</p>
+    <p>I especially want to acknowledge my children — Walter Clinton III, Alexis, Isaac, Isaiah, Aysiah, and Alexander. Each of you has a special place in my heart, and even though life’s paths sometimes take us in different directions, I carry you with me in everything I do. You’ve each shaped who I am in ways that words can’t fully express. My hope is that one day, you’ll see through these pages not just the lessons I’ve learned, but the love and belief I’ve always had in you.</p>
+    <p>To everyone who’s ever reminded me to keep driving — whether through faith, friendship, or sheer example — thank you.</p>
+    <p>And to the reader: may you always find the courage to take the wheel of your own life, to forgive your past detours, and to drive forward with confidence, purpose, and hope.</p>
+
+    <!-- Contact Section -->
+    <div class="contact">
+        <p>Contact me: <a href="mailto:walterclinton19@gmail.com">walterclinton19@gmail.com</a> | <a href="mailto:shakinmyhead.wc@gmail.com">shakinmyhead.wc@gmail.com</a></p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 ShakingMyHead LLC</p>
+</footer>
+
+</body>
+</html>
